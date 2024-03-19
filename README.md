@@ -121,7 +121,7 @@ packaging_ml_model
     . refers to current directory
 
     Also can be installed from git as well after pushing to github
-    pip install git+https://github.com/manifoldailearning/prediction_model.git
+    pip install git+https://github.com/vaman1607/prediction_model.git
 
 ##  Testing the Package Working
 
